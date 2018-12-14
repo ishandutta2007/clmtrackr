@@ -94,3 +94,10 @@ To test the examples locally, you need to run a local server. One easy way to do
 ### License ###
 
 **clmtrackr** is distributed under the [MIT License](http://www.opensource.org/licenses/MIT)
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
